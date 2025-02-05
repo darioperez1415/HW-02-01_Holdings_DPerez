@@ -3,9 +3,9 @@ ETF Investment Holdings Web Scraper
 This project is a web scraping exercise that extracts investment holdings from various exchange-traded funds (ETFs) and organizes the data into a structured pandas DataFrame. The goal is to scrape ticker symbols (e.g., AAPL, NVDA) and their allocation weights, then format the data as floating-point values by removing percentage symbols.
 
 Features
-✅ Web scrape ETF holdings from publicly available sources
-✅ Convert extracted data into a structured pandas DataFrame
-✅ Ensure all allocation weights are in float format for further analysis
+- ✅ Web scrape ETF holdings from publicly available sources
+- ✅ Convert extracted data into a structured pandas DataFrame
+- ✅ Ensure all allocation weights are in float format for further analysis
 
 Example DataFrame Structure
 AAPL	NVDA	MSFT	AMZN	AVGO	META	TSLA
